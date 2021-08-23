@@ -1,0 +1,15 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    width: 100%;
+    text-align: left;
+    font-size: 23px;
+    margin: 0px;
+}
+
+.button {
+    float: right;
+    border: 1px solid white;
+}
